@@ -8,7 +8,7 @@ Projeto desenvolvido para o curso Big Data Engineer Semantix Academy. O projeto 
 ### 1. Enviar os dados para o hdfs:
 
 * Envio dos arquivos para o HDFS:
-</br>
+
 #### 📌 Visualização
 ![](img/img-hdfs/envio-csv-hdfs.JPG)
 ![](img/img-hdfs/arquivos-no-hdfs.JPG)
@@ -22,7 +22,6 @@ Projeto desenvolvido para o curso Big Data Engineer Semantix Academy. O projeto 
 
 * Criando a tabela tb_covide19 no Hive:
 ![](img/img-hive/criando_tab_hive.JPG)
-</br>
 
 * Visualizando a descrição da tabela tb_covide19:
 ![](img/img-hive/desc_tabela_hive.JPG)
@@ -35,11 +34,9 @@ Projeto desenvolvido para o curso Big Data Engineer Semantix Academy. O projeto 
 
 * Select na tabela tb_covide19:
 ![](img/img-hive/select_tb_com_dados.JPG)
-</br>
 
 * Contando os registros da tabela:
 ![](img/img-hive/select_qtd_reg_tb.JPG)
-</br>
 
 * Visualizando os dados distintos da coluna região:
 ![](img/img-hive/select_regiao.JPG)
@@ -55,11 +52,9 @@ Projeto desenvolvido para o curso Big Data Engineer Semantix Academy. O projeto 
 
 * Cartão 01: Casos Recuperados e Em acompanhamento:
 ![](img/img-spark/cartao-01.JPG)
-</br>
 
 * Cartão 02: Casos confirmados:
 ![](img/img-spark/cartao-02.JPG)
-</br>
 
 * Cartão 3: Óbitos Confirmados:
 ![](img/img-spark/cartao-03.JPG)
@@ -91,10 +86,10 @@ Projeto desenvolvido para o curso Big Data Engineer Semantix Academy. O projeto 
 
 * Criando o tópico no Kafka:
 ![](img/img-kafka/topic_criado.JPG)
-</br>
+
 * Salvando a visualização do cartão 03 no tópico no Kafka:
 ![](img/img-spark/cartao-03-kafka.JPG)
-</br>
+
 ![](img/img-spark/cartao-03-kafka2.JPG)
 </br>
 </br>
